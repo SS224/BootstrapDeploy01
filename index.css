@@ -1,0 +1,18 @@
+nav{
+    margin-bottom: 5px;
+}
+li{
+    margin-left: 50px;
+}
+div img{
+    object-fit: cover;
+}
+section{
+    margin-top: 5px;
+}
+.row{
+    margin-bottom: 10px;
+}
+body{
+    background-color: whitesmoke;
+}
